@@ -23,6 +23,14 @@ I welcome any questions you have on this presentation and general code related q
 Got questions? email me:
 aaron@queryclick.com
 
+## Want to contribute to this repo?
+You can fork the repo. This will allow you to mess around with the code without worrying if you're breaking things!
+
+lean more about forks here: https://help.github.com/articles/fork-a-repo     
+
+Once you are happy with your code, submit a Pull Request (PR)!
+Lean more about PR's here: https://help.github.com/articles/about-pull-requests
+
 ## Resources
 Resources:
 We have a ton of books that you could read. My favourite series we have is 'You don't know JS'. Even better, it's totally free and open source on GitHub! Link: https://github.com/getify/You-Dont-Know-JS
