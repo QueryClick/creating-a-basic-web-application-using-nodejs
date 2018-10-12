@@ -18,6 +18,27 @@ https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs/arch
 
 **Note:** Anytime you make a change to the source code, you will have to stop the server and start it again. If you install [nodemon](https://github.com/remy/nodemon), you can run `nodemon index.js` and it will watch for changes and automatically reload the server!
 
+## Application Structure
+
+### index.js
+This is our main file and is used for setting up our Express server. This is also the file that we call to start the server. What happens in this file:   
+* We require ExpressJS
+* We define what port we want the server to run on
+* We listen on that port
+* We have middleware functions to load:
+    * Static files (CSS, JavaScript etc.) by defining where to load them from
+    * Body Parser module to be able to get `req.body` of data sent across a POST a request.
+    * Allow our router to be loaded.
+
+### routes.js
+This file is used to create our routes of our web application. What happens in this file:
+* We include Express's Router (see https://expressjs.com/en/guide/routing.html#express-router)
+* We add all of our routes we want
+* We export the router object so that it can be used as middleware within `index.js`
+
+### Public Directory
+This file includes our static resources. We reference this directory from `index.js` as the static middleware.
+
 ## Questions?
 I welcome any questions you have on this presentation and general code related questions!  
 Got questions? email me:
