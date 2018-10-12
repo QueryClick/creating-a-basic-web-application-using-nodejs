@@ -16,6 +16,7 @@ https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs/arch
 ## Running the application
 1. Ensure you're within the application directory (you can verify this by typing `pwd` within your CLI. On Windows, you may have to type `echo %cd%` or just `cd`)
 2. Within the parent directory run `npm start` or `node index.js` to start the application.
+3. If no errors, you should be able to view `http://localhost:8080`!
 
 **Note:** Anytime you make a change to the source code, you will have to stop the server and start it again. If you install [nodemon](https://github.com/remy/nodemon), you can run `nodemon index.js` and it will watch for changes and automatically reload the server!
 
