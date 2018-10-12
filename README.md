@@ -9,7 +9,9 @@ This code is from a WBF presentation at QueryClick.
 3. Clone the repository using your CLI `git clone https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs.git`
 4. Install packages `npm i`
 
-
+### Have no clue how to use git and a CLI? 
+All good. Ask us Devs how to use git! For now, here's a zip:
+https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs/archive/master.zip
 ## Running the application
 1. CD to your applications directory
 2. Within the parent directory run `npm start` or `node index.js` to start the application.
