@@ -47,29 +47,30 @@ aaron@queryclick.com
 ## Want to contribute to this repo?
 You can fork the repo. This will allow you to mess around with the code without worrying if you're breaking things!
 
-lean more about forks here: https://help.github.com/articles/fork-a-repo     
+Lean more about forks here: https://help.github.com/articles/fork-a-repo     
 
-Once you are happy with your code, submit a Pull Request (PR)!
+Once you are happy with your code, submit a pull request (PR)!   
 Lean more about PR's here: https://help.github.com/articles/about-pull-requests
 
 ## Resources
 Resources:
 We have a ton of books that you could read. My favourite series we have is 'You don't know JS'. Even better, it's totally free and open source on GitHub! Link: https://github.com/getify/You-Dont-Know-JS
 
-YouTube channels I would recommend:
-JavaScript Tutorial for Beginners - https://www.youtube.com/watch?v=W6NZfCO5SIk 
-JavaScript Fundamentals For Beginners - https://youtu.be/vEROU2XtPR8
-Code! Programming for Beginners with p5.js -h ttps://youtu.be/yPWkPOfnGsw
+YouTube channels I would recommend:   
+JavaScript Tutorial for Beginners -   
+https://www.youtube.com/watch?v=W6NZfCO5SIk     
+JavaScript Fundamentals For Beginners - https://youtu.be/vEROU2XtPR8    
+Code! Programming for Beginners with p5.js - https://youtu.be/yPWkPOfnGsw    
  
 Node.js:
-Download: https://nodejs.org/en/
+Download: https://nodejs.org/en/    
 Documentation: https://nodejs.org/en/docs/
 
 Learning general JavaScript:
-https://javascript.info/
+https://javascript.info/    
 https://developer.mozilla.org/bm/docs/Web/JavaScript
 
-ExpressJS:
+ExpressJS:    
 https://expressjs.com/
 
 If you want to know specific things, I can find resources for you and send them across.
