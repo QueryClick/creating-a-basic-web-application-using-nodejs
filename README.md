@@ -1,6 +1,8 @@
 # CREATING A BASIC WEB APPLICATION USING NODE.JS
 This code is from a WBF presentation at QueryClick.
 
+**Note:** For anyone outside QueryClick coming across this. Feel free to use this software! The application was built in around 20 minutes so it isn't very good... But hey, if you want to improve it, submit a PR!
+
 ## Installation
 1. Install Node.js - https://nodejs.org/en/download/
 2. With your CLI, CD to where you want the application to be saved from git.
