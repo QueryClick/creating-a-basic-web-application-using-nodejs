@@ -3,8 +3,8 @@ This code is from a WBF presentation at QueryClick.
 
 ## Installation
 1. Install Node.js - https://nodejs.org/en/download/
-2. CD to where you want the application to be saved from git.
-3. Clone the repository `git clone https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs.git`
+2. With your CLI, CD to where you want the application to be saved from git.
+3. Clone the repository using your CLI `git clone https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs.git`
 4. Install packages `npm i`
 
 
