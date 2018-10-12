@@ -14,7 +14,7 @@ This code is from a WBF presentation at QueryClick.
 All good. Ask us Devs how to use git! For now, here's a zip:
 https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs/archive/master.zip
 ## Running the application
-1. CD to your applications directory
+1. Ensure you're within the application directory (you can verify this by typing `pwd` within your CLI)
 2. Within the parent directory run `npm start` or `node index.js` to start the application.
 
 **Note:** Anytime you make a change to the source code, you will have to stop the server and start it again. If you install [nodemon](https://github.com/remy/nodemon), you can run `nodemon index.js` and it will watch for changes and automatically reload the server!
