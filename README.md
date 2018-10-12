@@ -7,7 +7,8 @@ This code is from a WBF presentation at QueryClick.
 1. Install Node.js - https://nodejs.org/en/download/
 2. With your CLI, CD to where you want the application to be saved from git.
 3. Clone the repository using your CLI `git clone https://github.com/QueryClick/creating-a-basic-web-application-using-nodejs.git`
-4. Install packages `npm i`
+4. CD within the directory that git creates (should be `CD creating-a-basic-web-application-using-nodejs`)
+5. Install packages `npm i`
 
 ### Have no clue how to use git and a CLI? 
 All good. Ask us Devs how to use git! For now, here's a zip:
